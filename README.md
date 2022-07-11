@@ -1,1 +1,1 @@
-## run on [replit](https://replit.com/github/nevinns/lerev-website)
+## run on [replit](https://replit.com/github/nevinns/lerev-bot-website)
